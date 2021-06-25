@@ -57,7 +57,7 @@ jobs:
 
       - run:
           name: Invalidate Cloudfront distribution
-          command: ~/.local/bin/aws cloudfront create-invalidation --distribution-id 	E3VZPXI7N12VAW --paths "/*"
+          command: ~/.local/bin/aws cloudfront create-invalidation --distribution-id E3VZPXI7N12VAW --paths "/*"
 
 workflows:
   version: 2
