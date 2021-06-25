@@ -8,7 +8,6 @@ function App() {
       <div className="container">
         <br />
         <Checkbox checked="true" item="User Interface" />
-        <Checkbox checked="true" item="Create dummy data" />
         <Checkbox checked="true" item="Create database" />
         <Checkbox
           checked="true"

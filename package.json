@@ -1,5 +1,6 @@
 {
   "name": "happy",
+  "homepage": "https://happytracker.co.uk",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
