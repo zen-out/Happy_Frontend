@@ -13,8 +13,10 @@ function App() {
           checked="true"
           item="Able to render the data throughout component"
         />
-        <Checkbox checked="true" item="Able to get all" />
-        <Checkbox checked="true" item="Able to post" />
+        <Checkbox
+          checked="true"
+          item="Able to get all and post"
+        />
         <Checkbox
           checked="true"
           item="Implement createSlice method"
