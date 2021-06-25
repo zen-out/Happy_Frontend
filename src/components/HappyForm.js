@@ -59,7 +59,7 @@ export default function HappyForm(props) {
             value={props.mood}
             className="browser-default custom-select mb-4"
           >
-            <option value="Choose!" disabled selected>
+            <option value="Choose!" selected>
               Choose your option
             </option>
             <option value="happy">happy</option>

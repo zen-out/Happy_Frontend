@@ -60,7 +60,7 @@ export default function HappyCard(props) {
             <button
               onClick={() => props.deleteHappy(props.id)}
               type="button"
-              className="btn btn-outline-danger"
+              className="btn btn-sm btn-outline-danger"
             >
               delete
             </button>
