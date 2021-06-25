@@ -72,6 +72,7 @@ export default function HappyPage() {
   }
   function addHappy() {
     console.log("add happy button clicked");
+    console.log("help");
   }
   function deleteHappy(index) {
     dispatch(loadingHappy(true));
